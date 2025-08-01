@@ -1,4 +1,5 @@
 # File-Listener-DB-Upload
+This Python project monitors a specified folder for new Excel files and uploads their content into an SQLite database.
 
 # Project Overview
 This Python project monitors a specified folder for new Excel files and uploads their content into an SQLite database.
