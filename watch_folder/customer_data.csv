@@ -1,0 +1,21 @@
+CustomerID,Name,Email,Phone,City,Country
+1001,John Doe,john@example.com,1234567890,New York,USA
+1002,Jane Roe,jane@example.com,0987654321,Chicago,USA
+1003,Alice Smith,alice@example.com,1122334455,San Jose,USA
+1004,Bob Brown,bob@example.com,6677889900,Houston,USA
+1005,Carol King,carol@example.com,3344556677,Seattle,USA
+1006,David Lee,david.lee@example.com,9988776655,Dallas,USA
+1007,Eva Green,eva.green@example.com,2233445566,Boston,USA
+1008,Frank Moore,frank.moore@example.com,5566778899,Denver,USA
+1009,Grace Hall,grace.hall@example.com,8899001122,Atlanta,USA
+1010,Hank White,hank.white@example.com,7788990011,Miami,USA
+1011,Ivy Black,ivy.black@example.com,1122558899,Orlando,USA
+1012,Jack Ryan,jack.ryan@example.com,9988224466,Phoenix,USA
+1013,Karen Hill,karen.hill@example.com,3344667788,Detroit,USA
+1014,Liam Scott,liam.scott@example.com,5566889900,Minneapolis,USA
+1015,Mona Reed,mona.reed@example.com,7788001122,San Diego,USA
+1016,Nate Brooks,nate.brooks@example.com,8899112233,Portland,USA
+1017,Olivia Adams,olivia.adams@example.com,1234987650,Las Vegas,USA
+1018,Paul Walker,paul.walker@example.com,3456127890,Austin,USA
+1019,Quincy Wood,quincy.wood@example.com,4567891230,Sacramento,USA
+1020,Rachel Stone,rachel.stone@example.com,2345678912,Tampa,USA
